@@ -1,0 +1,27 @@
+{
+  "name": "manuallessons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "dev": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@reach/router": "^1.2.1",
+    "npm": "^6.5.0",
+    "pa": "^0.1.1",
+    "petfinder-client": "0.0.3",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "standard": "^12.0.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.11.0"
+  }
+}
